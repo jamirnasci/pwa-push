@@ -1,0 +1,9 @@
+{
+  "name": "Push Test",
+  "short_name": "PushTest",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "description": "App de teste com PWA + Push"
+}
